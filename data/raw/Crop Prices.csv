@@ -1,0 +1,16 @@
+month,commodity_name,avg_modal_price,avg_min_price,avg_max_price,state_name,district_name,calculationType,change
+May,kidneybeans,2341.58,2191.23,2402.98,India,All,Monthly,-14.43
+June,kidneybeans,2356.01,2202.35,2414.46,India,All,Monthly,-26.19
+July,kidneybeans,2382.2,2221.31,2448.22,India,All,Monthly,53.42
+January,kidneybeans,2341.58,2191.23,2402.98,India,All,Monthly,-14.43
+February,kidneybeans,2356.01,2202.35,2414.46,India,All,Monthly,-26.19
+March,kidneybeans,2382.2,2221.31,2448.22,India,All,Monthly,53.42
+May,kidneybeans,2341.58,2191.23,2402.98,India,All,Monthly,-14.43
+April,kidneybeans,2356.01,2202.35,2414.46,India,All,Monthly,-26.19
+July,kidneybeans,2382.2,2221.31,2448.22,India,All,Monthly,53.42
+May,kidneybeans,2341.58,2191.23,2402.98,India,All,Monthly,-14.43
+June,kidneybeans,2356.01,2202.35,2414.46,India,All,Monthly,-26.19
+July,kidneybeans,2382.2,2221.31,2448.22,India,All,Monthly,53.42
+May,kidneybeans,2341.58,2191.23,2402.98,India,All,Monthly,-14.43
+August,kidneybeans,2356.01,2202.35,2414.46,India,All,Monthly,-26.19
+September,kidneybeans,2382.2,2221.31,2448.22,India,All,Monthly,53.42
